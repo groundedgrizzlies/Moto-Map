@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+dist
+vite.config.mts.timestamp-* 
+*.tsbuildinfo
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
